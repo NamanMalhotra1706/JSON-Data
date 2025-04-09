@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "age": 25,
+      "isActive": true
+    },
+    {
+      "name": "Pooja Mehra",
+      "email": "pooja@example.com",
+      "age": 28,
+      "isActive": false
+    },
+    {
+      "name": "Ravi Kumar",
+      "email": "ravi@example.com",
+      "age": 30,
+      "isActive": true
+    }
+  ]
+}
